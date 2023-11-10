@@ -35,6 +35,6 @@ I'm a computer scientist currently living in South Africa. I'm the founder of [I
 ---
 
 ### ✍️ Tech Notes : 
-- [What steps can individuals take to strike a balance between convenienceand safeguarding their digital assets?](https://notes.intobinary.org/madam-ella/what-steps-can-individuals-take-to-strike-a-balance-between-convenience-and-safeguarding-their-digital-assets/)
-- [What steps can individuals take to strike a balance between convenienceand safeguarding their digital assets?](https://notes.intobinary.org/madam-ella/what-steps-can-individuals-take-to-strike-a-balance-between-convenience-and-safeguarding-their-digital-assets/)<!-- BLOG-POST-LIST:START -->
+- [What is the significance of network segmentation in safeguarding ERP systems?](what-is-the-significance-of-network-segmentation-in-safeguarding-ERP-systems)
+- [What steps can individuals take to strike a balance between convenience and safeguarding their digital assets?](https://notes.intobinary.org/madam-ella/what-steps-can-individuals-take-to-strike-a-balance-between-convenience-and-safeguarding-their-digital-assets/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
