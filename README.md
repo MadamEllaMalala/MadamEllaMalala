@@ -30,8 +30,6 @@ I'm a computer scientist currently living in South Africa. I'm a mentor at [Into
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MadamEllaMalala&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadamEllaMalala&layout=compact&theme=vision-friendly-dark)]
-
 ---
 
 ### ✍️ Tech Articles : 
